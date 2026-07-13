@@ -1,4 +1,12 @@
+<div align="center">
 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Krishna Vijayvargiya
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Cybersecurity+Enthusiast;Java+Developer;Open+Source+Learner;Always+Learning+New+Things" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn"/>
+
+</div>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishnavw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vijayvargiyak9@gmail.com) 
 
