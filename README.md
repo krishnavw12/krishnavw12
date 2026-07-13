@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn"/>
 
-</div>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishnavw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vijayvargiyak9@gmail.com) 
 
